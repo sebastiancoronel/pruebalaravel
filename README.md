@@ -49,3 +49,5 @@ Crear una base de datos con el nombre de prueba con cotejamiento utf8_unicode_ci
  php artisan migrate <br>
  php artisan db:seed <br>
  php artisan storage:link <br>
+ # Usar server de Laravel
+ php artisan serve
